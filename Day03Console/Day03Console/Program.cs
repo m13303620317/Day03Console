@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DotNetEvents
+namespace Day03Console
 {
     // Define a class to hold custom event info
     public class CustomEventArgs : EventArgs
